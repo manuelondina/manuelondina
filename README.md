@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on [https://www.sngular.com/](Sngular)<br>Let's collaborate!
+I'm currently working on [Sngular](https://www.sngular.com/)<br>Let's collaborate!
 
 
 ## 🌐 Socials:
