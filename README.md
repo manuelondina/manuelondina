@@ -10,4 +10,4 @@ I'm currently working on [Sngular](https://www.sngular.com/)<br>Let's collaborat
 
 
 # 📊 GitHub Stats:
-![](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelondina&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+(![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelondina&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
